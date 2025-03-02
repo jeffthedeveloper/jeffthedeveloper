@@ -51,7 +51,7 @@
 
 [![Jefferson Firmino Mendes' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeffthedeveloper&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<br>
 
 
 ### Contribution Stats
