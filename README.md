@@ -12,11 +12,13 @@
   - ◘ Spanish
   - ◘ English
   - ◘ Portuguese
+    
+
 -  I’m looking for help with freeware projects.
 -  Ask me about any doubt, anything call me on linkedin chat or whatsapp;
 -  How to reach me and more informations: [Linkedin](https://www.linkedin.com/in/professorjefferson) | [Email](mailto:jeffersonfir@gmail.com) | [Whatsapp](https://api.whatsapp.com/send?phone=83996258911&text=Whatsapp)
 
-> "Persistence is the path to success." - Charles Chaplin
+>                                     "Persistence is the path to success." - Charles Chaplin
 
 ### Languages and Technologies
 
@@ -37,7 +39,7 @@
 
 
 
-<div align="right">
+<div align="center">
   <a href="https://github.com/jeffthedeveloper">
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=compact&langs_count=7&theme=dracula"/>
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
