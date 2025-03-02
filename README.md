@@ -56,87 +56,84 @@
 - 34 contributions in 2023
 - 4 contributions in 2022
 
-🎓 Academic Background
+# 🎓 Academic Background
 
-🎓 Postgraduate in Data Science (Big Data) @ Univitória (2025 - 2026, Ongoing)
+## 🎓 Postgraduate in Data Science (Big Data)  
+**@ Univitória (2025 - 2026, Ongoing)**  
+🔹 **Key Subjects:** Big Data, Hadoop, Spark, NoSQL, AI & Machine Learning  
+🔹 **Skills:** PyTorch, Big Data Analytics, Predictive Analytics  
 
-🔹 Key Subjects: Big Data, Hadoop, Spark, NoSQL, AI & Machine Learning
+---
 
-🔹 Skills: PyTorch, Big Data Analytics, Predictive Analytics
+## 🎓 Postgraduate in Software Engineering  
+**@ Faculdade Focus (2023)**  
+🔹 **Key Areas:** Agile Methods, IT Governance, System Analysis  
+🔹 **Skills:** Scrum, IT Project Management, Software Development  
 
-🎓 Postgraduate in Software Engineering @ Faculdade Focus (2023)
+---
 
-🔹 Key Areas: Agile Methods, IT Governance, System Analysis
+## 🎓 Mathematics Pedagogy  
+**@ UNOPAR (2024 - 2025, Ongoing)**  
+🔹 Strengthening mathematical foundation for Data Science  
 
-🔹 Skills: Scrum, IT Project Management, Software Development
+---
 
-🎓 Mathematics Pedagogy @ UNOPAR (2024 - 2025, Ongoing)
+## 🎓 Data & Systems Analysis  
+**@ UNOPAR (2021 - 2022)**  
+🔹 **Skills:** SQL, Data Modeling, Data Analysis  
 
-🔹 Strengthening mathematical foundation for Data Science
+---
 
-🎓 Data & Systems Analysis @ UNOPAR (2021 - 2022)
+## 🎓 Financial Management  
+**@ UNOPAR (2021)**  
+🔹 **Skills:** Financial Modeling, Business Intelligence, Data-Driven Decisions  
 
-🔹 Skills: SQL, Data Modeling, Data Analysis
+---
 
-🎓 Financial Management @ UNOPAR (2021)
+## 🎓 Computer Maintenance & Support  
+**@ SENAI (2013 - 2014)**  
+🔹 Initial exposure to data processing & IT fundamentals  
 
-🔹 Skills: Financial Modeling, Business Intelligence, Data-Driven Decisions
+---
 
-🎓 Computer Maintenance & Support @ SENAI (2013 - 2014)
+# 🏆 Core Competencies  
 
-🔹 Initial exposure to data processing & IT fundamentals
+## 🔥 Tech & AI  
+🧠 **Machine Learning & AI:** PyTorch, TensorFlow, Generative AI, Transformers (Hugging Face)  
+📊 **Big Data & Cloud:** Hadoop, Spark, GCP, MLOps  
+🚀 **Web & Backend:** Flask, React.js, Node.js, Firebase  
+📈 **Business Intelligence:** Power BI, Data Visualization  
 
-🏆 Core Competencies
+---
 
-🔥 Tech & AI
+## 🎯 Programming & Development  
+💻 **Languages:** Python, Java, JavaScript, TypeScript, SQL, HTML, CSS, Sass  
+🛠 **Frameworks & Libraries:** Pandas, NumPy, Scikit-Learn, Bootstrap  
+🖥 **Dev Tools:** GitHub, Docker, Microsoft Office, Adobe Creative Suite  
 
-🧠 Machine Learning & AI: PyTorch, TensorFlow, Generative AI, Transformers (Hugging Face)
+---
 
-📊 Big Data & Cloud: Hadoop, Spark, GCP, MLOps
+## 📊 Business & Management  
+🎯 **IT Governance & Management**  
+🔄 **Agile Methodologies:** Scrum, Kanban  
+💡 **Data-Driven Decision Making**  
+📈 **SEO & Digital Strategy**  
 
-🚀 Web & Backend: Flask, React.js, Node.js, Firebase
+---
 
-📈 Business Intelligence: Power BI, Data Visualization
+# 🎯 LinkedIn-Approved Skills  
+🐍 Python  
+📊 SQL & Data Science  
+📐 Mathematics & Statistics  
+💡 Business Intelligence (BI)  
+🌐 Web Development  
+💻 Computer Science  
 
-🎯 Programming & Development
+---
 
-💻 Languages: Python, Java, JavaScript, TypeScript, SQL, HTML, CSS, Sass
-
-🛠 Frameworks & Libraries: Pandas, NumPy, Scikit-Learn, Bootstrap
-
-🖥 Dev Tools: GitHub, Docker, Microsoft Office, Adobe Creative Suite
-
-📊 Business & Management
-
-🎯 IT Governance & Management
-
-🔄 Agile Methodologies (Scrum, Kanban)
-
-💡 Data-Driven Decision Making
-
-📈 SEO & Digital Strategy
-
-🎯 LinkedIn-Approved Skills
-
-🐍 Python
-
-📊 SQL & Data Science
-
-📐 Mathematics & Statistics
-
-💡 Business Intelligence (BI)
-
-🌐 Web Development
-
-💻 Computer Science
-
-🏅 Additional Expertise
-
-📚 Mathematical Foundations: Linear Algebra, Probability, Optimization
-
-🏆 Soft Skills: Team Leadership, Communication, Problem-Solving
-
-⚡ Industry Trends: AI Ethics, RPA, Prompt Engineering
+# 🏅 Additional Expertise  
+📚 **Mathematical Foundations:** Linear Algebra, Probability, Optimization  
+🏆 **Soft Skills:** Team Leadership, Communication, Problem-Solving  
+⚡ **Industry Trends:** AI Ethics, RPA, Prompt Engineering  
 
 📌 Passionate about AI, Data Science, and building scalable tech solutions! 🚀
-
