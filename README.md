@@ -142,3 +142,5 @@
 ⚡ **Industry Trends:** AI Ethics, RPA, Prompt Engineering  
 
 📌 Passionate about AI, Data Science, and building scalable tech solutions! 🚀
+
+[NVIDIA](https://github.com/NVIDIA
