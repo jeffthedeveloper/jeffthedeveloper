@@ -115,3 +115,99 @@ March 2013 - June 2014
 Initial contact with the data processing area.
 
 **Competencies:** Microsoft Office
+
+### Competências Principais
+
+-  PyTorch
+-  GPT-J 6B e PyTorch 2.x
+-  Transformers (Hugging Face)
+-  Flask
+-  LLMOps e MLOps
+-  Hadoop
+-  Spark
+-  Análise de Dados Avançada
+-  Desenvolvimento de Algoritmos de Machine Learning
+-  Inteligência Artificial
+-  Análise Preditiva para Negócios
+-  TensorFlow
+-  Big Data
+-  IA Generativa
+
+### Competências Aprovadas no LinkedIn 
+
+-  Python
+-  SQL
+-  Matemática
+-  Ciência de dados
+-  Inglês
+-  Computers 
+-  Programação (computação)
+-  Microsoft Office
+
+### Outras Competências
+
+**Linguagens de Programação:**
+-  Python
+-  Java
+-  JavaScript
+-  TypeScript
+-  HTML
+-  CSS
+-  Sass
+-  SQL
+
+**Frameworks e Bibliotecas:**
+-  NumPy
+-  Pandas
+-  Scikit-Learn
+-  React.js
+-  Node.js
+-  Bootstrap
+
+**Ferramentas e Plataformas:**
+-  Google Cloud Platform (GCP)
+-  MySQL
+-  Power BI
+-  Microsoft Excel
+-  Microsoft Word
+-  Microsoft PowerPoint
+-  GIT e GitHub
+-  Docker
+
+**Habilidades de Negócios e Gestão:**
+-  Governança de TI
+-  Gestão de TI
+-  Gestão Financeira
+-  Scrum
+-  Inteligência de negócios (BI)
+-  Análise de dados
+-  Visualização de dados
+-  Engenharia de Prompt
+
+**Outras Habilidades:**
+
+-  Álgebra Linear e Otimização Matemática
+-  Cálculo Diferencial e Integral
+-  Teoria das Probabilidades e Modelagem Estocástica
+-  Programação Matemática e Algoritmos de Machine Learning
+-  Sistemas operacionais
+-  Processamento de dados
+-  Pacote Office
+-  Adobe Creative Suite
+-  Design Gráfico para Web
+-  Edição de imagens
+-  Criação de Layouts
+-  Fundamentos de Programação
+-  Comunicação interpessoal
+-  Liderança de equipe
+-  Condução de reuniões
+-  Método criativo de solução de problemas
+-  Resiliência
+-  Ética na computação
+-  Ética na Era da Inteligência Artificial Generativa
+-  Automação robótica de processos (RPA)
+-  Programação orientada a objetos (POO)
+-  Desenvolvimento Web Completo
+-  Otimização para mecanismos de busca (SEO)
+-  Engenharia de Software
+-  Narração de histórias
