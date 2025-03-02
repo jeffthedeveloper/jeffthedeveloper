@@ -1,4 +1,4 @@
-console.log("hello world") 
+`console.log("hello world")` 
 
 <div align="center">
   <h1>Jefferson Firmino</h1>
@@ -31,14 +31,19 @@ console.log("hello world")
 - Firebase
 - Other emerging technologies
 
-### GitHub Stats
-
 <div align="right">
   <a href="https://github.com/jeffersonfirmino">
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfirmino&layout=compact&langs_count=7&theme=dracula"/>
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jeffersonfirmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
+### Contribution Stats
+
+- 184 contributions in the last year (2025)
+- 129 contributions in 2024
+- 34 contributions in 2023
+- 4 contributions in 2022
 
 ## Academic History (English)
 
