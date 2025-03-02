@@ -37,6 +37,16 @@
 
 🌟 Emerging Technologies (Cloud, AI, MLOps)
 
+
+<br>
+
+## 🚀 Tecnologias para IA e Data Science  
+
+[![Google Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?logo=google&logoColor=white)](https://ai.google.dev/)  
+[![GPT-6jb](https://img.shields.io/badge/GPT-6jb-FF4500?logo=openai&logoColor=white)](https://openai.com)  
+[![ATI](https://img.shields.io/badge/ATI-Graphics-990000?logo=amd&logoColor=white)](https://www.amd.com/en/technologies/radeon)  
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-FFDD55?logo=huggingface&logoColor=black)](https://huggingface.co/)  
+
 <br>
 
 <div align="center">
