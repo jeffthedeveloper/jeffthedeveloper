@@ -39,7 +39,10 @@
   </a>
 </div>
 
-[![Jefferson Firmino Mendes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&theme=dracula)](https://github.com/jeffthedeveloper)
+[![Jefferson Firmino Mendes' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeffthedeveloper&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 
 ### Contribution Stats
 
