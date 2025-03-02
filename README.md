@@ -23,13 +23,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px" height ="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px" height ="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height ="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50px" height ="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" height ="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px" height ="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50px" height ="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" height ="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px" height ="50px"/>
+  
 
-### I'm Currently Learning
+📚 Currently Specializing In
 
-- LLM (Large Language Models)
-- Trainers (e.g., GPT6jb)
-- Firebase
-- Other emerging technologies
+🤖 LLMs (Large Language Models) & AI applications
+
+🎯 Model Training (e.g., GPT-J 6B)
+
+🔥 Firebase & backend integrations
+
+🌟 Emerging Technologies (Cloud, AI, MLOps)
+
 
 
 <div align="right">
@@ -51,166 +56,87 @@
 - 34 contributions in 2023
 - 4 contributions in 2022
 
-## Academic History (English)
+🎓 Academic Background
 
-### Univitória EAD
-**Postgraduate Degree Lato Sensu - Specialization, Data Science (Big Data)**
-January 2025 - January 2026 (Currently Enrolled)
+🎓 Postgraduate in Data Science (Big Data) @ Univitória (2025 - 2026, Ongoing)
 
-Currently pursuing a Postgraduate Degree in Data Science (Big Data) at UniVitória. The course aims to equip professionals to manage large volumes of data and transform them into strategic insights, integrating the most modern tools and methodologies in the market.
+🔹 Key Subjects: Big Data, Hadoop, Spark, NoSQL, AI & Machine Learning
 
-**Relevant Disciplines and Competencies:**
+🔹 Skills: PyTorch, Big Data Analytics, Predictive Analytics
 
-- Introduction to the World of Big Data and Data Science
-- Hadoop, Spark, and NoSQL Databases (MongoDB)
-- Predictive Analysis and Data Mining
-- Big Data Analytics and Data Management
-- Big Data Infrastructure and Cloud Computing
-- Higher Education Teaching
+🎓 Postgraduate in Software Engineering @ Faculdade Focus (2023)
 
-**Competencies:** Big data · Hadoop · PyTorch · Spark
+🔹 Key Areas: Agile Methods, IT Governance, System Analysis
 
-### Faculdade Focus
-**Postgraduate Degree Lato Sensu - Specialization, Software Development (Software Engineering)**
-March 2023 - October 2023
-Grade: GPA: 9.0
+🔹 Skills: Scrum, IT Project Management, Software Development
 
-Postgraduate in Software Engineering – Focus on Management, Agile Methodologies, and Governance. Integrated knowledge of Financial Management and Systems Analysis, creating a cohesive and strategic approach.
+🎓 Mathematics Pedagogy @ UNOPAR (2024 - 2025, Ongoing)
 
-**Highlights:**
+🔹 Strengthening mathematical foundation for Data Science
 
-- IT Project Management: Implementation of agile practices for solution delivery.
-- Agile Methodologies: Collaborative and adaptable development.
-- IT Governance: Strategic alignment of technological resources with business objectives.
+🎓 Data & Systems Analysis @ UNOPAR (2021 - 2022)
 
-**Competencies:** IT Governance · Software Engineering · IT Management
+🔹 Skills: SQL, Data Modeling, Data Analysis
 
-### UNOPAR - Universidade Norte do Paraná
-**Pedagogical Formation in Mathematics, Mathematics**
-August 2024 - December 2025 (Currently Enrolled)
+🎓 Financial Management @ UNOPAR (2021)
 
-Mathematics is an essential area for Data Science. The disciplines strengthen my foundation to accurately pass on knowledge.
+🔹 Skills: Financial Modeling, Business Intelligence, Data-Driven Decisions
 
-**Competencies:** Mathematics
+🎓 Computer Maintenance & Support @ SENAI (2013 - 2014)
 
-### UNOPAR - Universidade Norte do Paraná
-**Data and System Analysis, Information Technology**
-July 2021 - December 2022
-Grade: GPA: 8.7
+🔹 Initial exposure to data processing & IT fundamentals
 
-Contact with essential disciplines for the data area.
+🏆 Core Competencies
 
-**Competencies:** SQL and Relational Databases · Data Analysis and Modeling
+🔥 Tech & AI
 
-### UNOPAR - Universidade Norte do Paraná
-**Technologist in Financial Management, Financial Management**
-January 2021 - December 2021
-Grade: GPA: 9.3
+🧠 Machine Learning & AI: PyTorch, TensorFlow, Generative AI, Transformers (Hugging Face)
 
-Essential foundations that connect management, technology, and innovation.
+📊 Big Data & Cloud: Hadoop, Spark, GCP, MLOps
 
-**Competencies:** Mathematics · Financial Management
+🚀 Web & Backend: Flask, React.js, Node.js, Firebase
 
-### Escola SENAI de Informática
-**Technical Education, Computer Maintenance and Support**
-March 2013 - June 2014
+📈 Business Intelligence: Power BI, Data Visualization
 
-Initial contact with the data processing area.
+🎯 Programming & Development
 
-**Competencies:** Microsoft Office
+💻 Languages: Python, Java, JavaScript, TypeScript, SQL, HTML, CSS, Sass
 
-### Competências Principais
+🛠 Frameworks & Libraries: Pandas, NumPy, Scikit-Learn, Bootstrap
 
--  PyTorch
--  GPT-J 6B e PyTorch 2.x
--  Transformers (Hugging Face)
--  Flask
--  LLMOps e MLOps
--  Hadoop
--  Spark
--  Análise de Dados Avançada
--  Desenvolvimento de Algoritmos de Machine Learning
--  Inteligência Artificial
--  Análise Preditiva para Negócios
--  TensorFlow
--  Big Data
--  IA Generativa
+🖥 Dev Tools: GitHub, Docker, Microsoft Office, Adobe Creative Suite
 
-### Competências Aprovadas no LinkedIn 
+📊 Business & Management
 
--  Python
--  SQL
--  Matemática
--  Ciência de dados
--  Inglês
--  Computers 
--  Programação (computação)
--  Microsoft Office
+🎯 IT Governance & Management
 
-### Outras Competências
+🔄 Agile Methodologies (Scrum, Kanban)
 
-**Linguagens de Programação:**
--  Python
--  Java
--  JavaScript
--  TypeScript
--  HTML
--  CSS
--  Sass
--  SQL
+💡 Data-Driven Decision Making
 
-**Frameworks e Bibliotecas:**
--  NumPy
--  Pandas
--  Scikit-Learn
--  React.js
--  Node.js
--  Bootstrap
+📈 SEO & Digital Strategy
 
-**Ferramentas e Plataformas:**
--  Google Cloud Platform (GCP)
--  MySQL
--  Power BI
--  Microsoft Excel
--  Microsoft Word
--  Microsoft PowerPoint
--  GIT e GitHub
--  Docker
+🎯 LinkedIn-Approved Skills
 
-**Habilidades de Negócios e Gestão:**
--  Governança de TI
--  Gestão de TI
--  Gestão Financeira
--  Scrum
--  Inteligência de negócios (BI)
--  Análise de dados
--  Visualização de dados
--  Engenharia de Prompt
+🐍 Python
 
-**Outras Habilidades:**
+📊 SQL & Data Science
 
--  Álgebra Linear e Otimização Matemática
--  Cálculo Diferencial e Integral
--  Teoria das Probabilidades e Modelagem Estocástica
--  Programação Matemática e Algoritmos de Machine Learning
--  Sistemas operacionais
--  Processamento de dados
--  Pacote Office
--  Adobe Creative Suite
--  Design Gráfico para Web
--  Edição de imagens
--  Criação de Layouts
--  Fundamentos de Programação
--  Comunicação interpessoal
--  Liderança de equipe
--  Condução de reuniões
--  Método criativo de solução de problemas
--  Resiliência
--  Ética na computação
--  Ética na Era da Inteligência Artificial Generativa
--  Automação robótica de processos (RPA)
--  Programação orientada a objetos (POO)
--  Desenvolvimento Web Completo
--  Otimização para mecanismos de busca (SEO)
--  Engenharia de Software
--  Narração de histórias
+📐 Mathematics & Statistics
+
+💡 Business Intelligence (BI)
+
+🌐 Web Development
+
+💻 Computer Science
+
+🏅 Additional Expertise
+
+📚 Mathematical Foundations: Linear Algebra, Probability, Optimization
+
+🏆 Soft Skills: Team Leadership, Communication, Problem-Solving
+
+⚡ Industry Trends: AI Ethics, RPA, Prompt Engineering
+
+📌 Passionate about AI, Data Science, and building scalable tech solutions! 🚀
+
