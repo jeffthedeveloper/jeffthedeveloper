@@ -31,12 +31,15 @@
 - Firebase
 - Other emerging technologies
 
+
 <div align="right">
   <a href="https://github.com/jeffthedeveloper">
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=compact&langs_count=7&theme=dracula"/>
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
+[![Jefferson Firmino Mendes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&theme=dracula)](https://github.com/jeffthedeveloper)
 
 ### Contribution Stats
 
