@@ -63,14 +63,6 @@
 
 <br>
 
-
-### Contribution Stats
-
-- 184 contributions in the last year (2025)
-- 129 contributions in 2024
-- 34 contributions in 2023
-- 4 contributions in 2022
-
 # 🎓 Academic Background
 
 ## 🎓 Postgraduate in Data Science (Big Data)  
