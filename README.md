@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jefferson Firmino</h1>
 
 <h3 align="center">A passionate Full Stack developer and a Post Graduation Data Scient Researcher from Brazil</h3>
+<br><br>
 
 - 🔭 I’m currently working on **Automatizations and LLM/MLOPS Projects**
 
