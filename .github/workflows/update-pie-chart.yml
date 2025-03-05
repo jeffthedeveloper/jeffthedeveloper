@@ -14,22 +14,31 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Pie Chart
+      - name: Generate GitHub Stats and Pie Chart
         run: |
-          curl -o ./github-readme-stats-pie.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=pie&langs_count=5&theme=dracula&count_private=true&include_all_commits=true&v=2"
+          # Criar diretório caso não exista (opcional, caso queira salvar em pasta)
+          mkdir -p ./stats  
+          
+          # Gerar estatísticas gerais
+          curl -o ./stats/github-readme-stats.svg "https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800"
 
-      - name: Validate SVG File
+          # Gerar gráfico de pizza
+          curl -o ./stats/github-readme-stats-pie.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=pie&langs_count=5&theme=dracula&count_private=true&include_all_commits=true&v=2"
+
+      - name: Validate SVG Files
         run: |
-          if grep -i "error" ./github-readme-stats-pie.svg; then
-            echo "Erro na geração do gráfico de pizza!"
-            cat ./github-readme-stats-pie.svg
-            exit 1
-          fi
+          for file in ./stats/*.svg; do
+            if grep -i "error" "$file"; then
+              echo "Erro na geração do SVG: $file"
+              cat "$file"
+              exit 1
+            fi
+          done
 
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --exit-code ./github-readme-stats-pie.svg; then
+          if git diff --exit-code ./stats/; then
             echo "No changes detected."
             echo "has_changes=false" >> $GITHUB_ENV
           else
@@ -43,8 +52,9 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           
-          git add ./github-readme-stats-pie.svg
-          git commit -m "Update Pie Chart"
+          git add ./stats/github-readme-stats.svg
+          git add ./stats/github-readme-stats-pie.svg
+          git commit -m "Update GitHub Stats & Pie Chart"
           
           # 🔽 INSIRA SEU TOKEN AQUI 🔽
           git push https://x-access-token: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@github.com/jeffthedeveloper/seu-repo.git
