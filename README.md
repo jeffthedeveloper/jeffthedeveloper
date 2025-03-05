@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **📚 Currently Specializing In Data Science**
 
-- 👯 I’m looking to collaborate on **Enterprises, Industries, Services Providers, and make Business Associations, Atract Sponsors, Grant Fix Jobs and Passive Incomes and Also Freelancer Roles**
+- 👯 I’m looking to collaborate on **Enterprises, Industries, Services Providers, and make Business Associations, Atract Sponsors, To Guarantee
+ Fix Jobs and Passive Incomes and Also Freelancer Roles**
 
 - 🤝 I’m looking for help with **FullStack Projects, OpenSource Projects and DataScience Oportunities for help with freeware and  private projects.**
 
