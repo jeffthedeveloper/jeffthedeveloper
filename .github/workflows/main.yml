@@ -2,8 +2,8 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *'  # Executa a cada hora
+  workflow_dispatch:  # Permite execução manual
 
 env:
   STATS_OUTPUT_DIR: "./stats"
@@ -14,21 +14,34 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Create Stats Directory
         run: mkdir -p ${{ env.STATS_OUTPUT_DIR }}
+
       - name: Generate GitHub Stats
         run: |
-          curl -o ${{ env.STATS_OUTPUT_DIR }}/github-readme-stats.svg "https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&include_all_commits=true"
-          # Validar o conteúdo do SVG (exemplo)
-          if grep -q "Error" ${{ env.STATS_OUTPUT_DIR }}/github-readme-stats.svg; then
-            echo "Erro na geração do SVG"
+          curl -o ${{ env.STATS_OUTPUT_DIR }}/github-readme-stats.svg "https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&include_all_commits=true&count_private=true"
+
+      - name: Validate SVG File
+        run: |
+          if grep -i "error" ${{ env.STATS_OUTPUT_DIR }}/github-readme-stats.svg; then
+            echo "Erro na geração do SVG!"
+            cat ${{ env.STATS_OUTPUT_DIR }}/github-readme-stats.svg
             exit 1
           fi
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add ${{ env.STATS_OUTPUT_DIR }}/github-readme-stats.svg
-          git commit -m "Update GitHub Stats" || echo "Erro no commit"
-          git push || echo "Erro no push"
+
+          # Verifica se há mudanças antes de commitar
+          if git diff --quiet; then
+            echo "Sem mudanças para commit."
+          else
+            git add ${{ env.STATS_OUTPUT_DIR }}/github-readme-stats.svg
+            git commit -m "Update GitHub Stats"
+            git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/jeffthedeveloper/seu-repo.git
+          fi
