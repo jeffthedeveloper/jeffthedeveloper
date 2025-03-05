@@ -112,7 +112,7 @@ I could contribute in the respective languages:
 <div align="center">
   
 <a href="https://github.com/jeffthedeveloper">
-<img height="330em" src=""./stats/github-readme-stats.svg"/>
+<img height="330em" src="https://raw.githubusercontent.com/jeffthedeveloper/jeffthedeveloper/674795e91ac35434ccb0b58e65dcbbe2dba58857/github-readme-stats.svg"/>
 </a>
 
 <hr>
