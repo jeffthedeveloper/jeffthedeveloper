@@ -1,0 +1,27 @@
+name: Generate Datas
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Executa a cada hora
+  workflow_dispatch: # Permite execução manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Baixar GitHub Stats
+        run: |
+          curl -o github-readme-stats.svg "https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&include_all_commits=true"
+
+      - name: Commit e Push das mudanças
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add github-readme-stats.svg
+          git commit -m "Atualização automática do GitHub Stats" || echo "Nenhuma mudança para commit"
+          git push || echo "Nenhuma mudança para push"
