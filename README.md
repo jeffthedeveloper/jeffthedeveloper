@@ -52,15 +52,7 @@
 
 <div align="center">
 <a href="https://github.com/jeffthedeveloper">
-<img height="130em" src="https://raw.githubusercontent.com/jeffthedeveloper/jeffthedeveloper/main/github-readme-stats.svg"/>
-</a>
-</div>
-
-
-
-<div align="center">
-<a href="https://github.com/jeffthedeveloper">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=compact&langs_count=8&theme=dracula&count_private=true&include_all_commits=true"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=compact&langs_count=8&theme=dracula&count_private=true&include_all_commits=true&v=2"/>
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a></div>
 
 
