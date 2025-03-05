@@ -63,14 +63,14 @@ I could contribute in the respective languages:
 ### Languages and Technologies
 
 
-🧠 Inteligência Artificial e Machine Learning
+🧠 Artificial Intelligence and Machine Learning
 
 <p align ="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tensorflow/tensorflow-original-wordmark.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pytorch/pytorch-original.svg" width="40" height="40"> </p>
 
-💻 Desenvolvimento Web
+💻 Web Development
 
 <p align ="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">
@@ -78,7 +78,7 @@ I could contribute in the respective languages:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"> </p>
 
-🛢️ Banco de Dados
+🛢️ Database
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
 
@@ -88,20 +88,20 @@ I could contribute in the respective languages:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"></p>
 
-☁️ Computação em Nuvem
+☁️ Cloud Computing
 
 <p align ="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40">
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"></p>
 
-🧠 Tecnologias em Crescimento
+🧠 Growing Technologies
 
 <p align ="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40"></p>
 
-🧠 Tecnologias Emergentes
+🧠 Emerging Technologies
 
 <p align ="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rust/rust-original.svg" width="40" height="40"></p>
