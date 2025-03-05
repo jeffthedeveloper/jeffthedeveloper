@@ -11,15 +11,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v2
-      - uses: anuraghazra/github-readme-stats@latest # Alterado para latest
-        with:
-          username: jeffthedeveloper
-          show_icons: true
-          include_all_commits: true
-      - uses: anuraghazra/github-readme-stats@latest # Alterado para latest
-        with:
-          username: jeffthedeveloper
-          show_icons: true
-          include_all_commits: true
-          output_svg: ./github-readme-stats.svg
+      - uses: actions/checkout@v3
+      - name: Generate GitHub Stats
+        run: |
+          curl -o github-readme-stats.svg "https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&include_all_commits=true"
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add github-readme-stats.svg
+          git commit -m "Update GitHub Stats"
+          git push
