@@ -47,14 +47,6 @@
 [![ATI](https://img.shields.io/badge/ATI-Graphics-990000?logo=amd&logoColor=white)](https://www.amd.com/en/technologies/radeon)  
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-FFDD55?logo=huggingface&logoColor=black)](https://huggingface.co/)  
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/jeffthedeveloper">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=compact&langs_count=8&theme=dracula&count_private=true&include_all_commits=true"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
 
 <br>
 <br>
