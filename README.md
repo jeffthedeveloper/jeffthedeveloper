@@ -110,10 +110,10 @@ I could contribute in the respective languages:
 <br>
 
 <div align="center">
-  
-<a href="https://github.com/jeffthedeveloper">
-<img height="330em" src="https://raw.githubusercontent.com/jeffthedeveloper/jeffthedeveloper/674795e91ac35434ccb0b58e65dcbbe2dba58857/github-readme-stats.svg"/>
-</a>
+  <a href="https://github.com/jeffthedeveloper">
+    <img height="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=pie&langs_count=5&theme=dracula&count_private=true&include_all_commits=true&v=2" />
+  </a>
+</div>
 
 <hr>
 
@@ -124,14 +124,11 @@ I could contribute in the respective languages:
 [![ATI](https://img.shields.io/badge/ATI-Graphics-990000?logo=amd&logoColor=white)](https://www.amd.com/en/technologies/radeon)  
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-FFDD55?logo=huggingface&logoColor=black)](https://huggingface.co/)  
 
-<br>
-
 <div align="center">
-  <a href="https://github.com/jeffthedeveloper">
-    <img height="330em" src="./stats/github-readme-stats.svg" />
-  </a>
-</div>
-
+  
+<a href="https://github.com/jeffthedeveloper">
+<img height="330em" src="https://raw.githubusercontent.com/jeffthedeveloper/jeffthedeveloper/674795e91ac35434ccb0b58e65dcbbe2dba58857/github-readme-stats.svg"/>
+</a>
 
 [![Contribuições 2024](https://img.shields.io/badge/Contribuições%202024-129-blue)](https://github.com/jeffthedeveloper)
 [![Contribuições 2023](https://img.shields.io/badge/Contribuições%202023-34-green)](https://github.com/jeffthedeveloper)
@@ -144,6 +141,7 @@ I could contribute in the respective languages:
 [![Jefferson Firmino Mendes' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeffthedeveloper&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
+
 
 <h3 align="center">Support:</h3><br><br>
 
