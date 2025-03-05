@@ -50,11 +50,17 @@
 
 <br>
 
+
 <div align="center">
 <a href="https://github.com/jeffthedeveloper">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=compact&langs_count=8&theme=dracula&count_private=true&include_all_commits=true&v=2"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a></div>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=pie&langs_count=8&theme=dracula&count_private=true&include_all_commits=true&v=2"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
 
+
+[![Contribuições 2024](https://img.shields.io/badge/Contribuições%202024-129-blue)](https://github.com/jeffthedeveloper)
+[![Contribuições 2023](https://img.shields.io/badge/Contribuições%202023-34-green)](https://github.com/jeffthedeveloper)
+
+</div>
 
 <br>
 <br>
