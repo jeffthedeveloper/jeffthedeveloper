@@ -145,7 +145,7 @@ I could contribute in the respective languages:
 
 <h3 align="center">Support:</h3><br><br>
 
-<p><a href="https://ko-fi.com/https://www.paypal.com/donate/?business=3P3W53NWLTEGS&no_recurring=0&item_name=Doe+para+o+manuten%C3%A7%C3%A3o+do+reposit%C3%B3rio+e+apoie+a+educa%C3%A7%C3%A3o+em+Ci%C3%AAncia+de+Dados+no+Brasil.+Sua+ajuda+%C3%A9+importante%21&currency_code=BRL"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://www.paypal.com/donate/?business=3P3W53NWLTEGS&no_recurring=0&item_name=Doe+para+o+manuten%C3%A7%C3%A3o+do+reposit%C3%B3rio+e+apoie+a+educa%C3%A7%C3%A3o+em+Ci%C3%AAncia+de+Dados+no+Brasil.+Sua+ajuda+%C3%A9+importante%21&currency_code=BRL" /></a></p><br><br>
+<p><a href="https://www.paypal.com/donate/?business=3P3W53NWLTEGS&no_recurring=0&item_name=Doe+para+o+manuten%C3%A7%C3%A3o+do+reposit%C3%B3rio+e+apoie+a+educa%C3%A7%C3%A3o+em+Ci%C3%AAncia+de+Dados+no+Brasil.+Sua+ajuda+%C3%A9+importante%21&currency_code=BRL"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://www.paypal.com/donate/?business=3P3W53NWLTEGS&no_recurring=0&item_name=Doe+para+o+manuten%C3%A7%C3%A3o+do+reposit%C3%B3rio+e+apoie+a+educa%C3%A7%C3%A3o+em+Ci%C3%AAncia+de+Dados+no+Brasil.+Sua+ajuda+%C3%A9+importante%21&currency_code=BRL" /></a></p><br><br>
 
 # 🎓 Academic Background
 
