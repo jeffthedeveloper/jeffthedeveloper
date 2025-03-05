@@ -112,7 +112,7 @@ I could contribute in the respective languages:
 <div align="center">
   
 <a href="https://github.com/jeffthedeveloper">
-<img height="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=pie&langs_count=5&theme=dracula&count_private=true&include_all_commits=true&v=2"/>
+<img height="330em" src=""./stats/github-readme-stats.svg"/>
 </a>
 
 <hr>
