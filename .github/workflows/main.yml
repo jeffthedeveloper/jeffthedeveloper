@@ -22,7 +22,7 @@ jobs:
 
       - name: Generate GitHub Stats
         run: |
-          curl -o ${{ env.STATS_OUTPUT_DIR }}/github-readme-stats.svg "https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&include_all_commits=true&count_private=true"
+          curl -o ${{ env.STATS_OUTPUT_DIR }}/github-readme-stats.svg "https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800"
 
       - name: Validate SVG File
         run: |
@@ -32,16 +32,23 @@ jobs:
             exit 1
           fi
 
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --exit-code ${{ env.STATS_OUTPUT_DIR }}/github-readme-stats.svg; then
+            echo "No changes detected."
+            echo "has_changes=false" >> $GITHUB_ENV
+          else
+            echo "Changes detected."
+            echo "has_changes=true" >> $GITHUB_ENV
+          fi
+
       - name: Commit and push changes
+        if: env.has_changes == 'true'
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-
-          # Verifica se há mudanças antes de commitar
-          if git diff --quiet; then
-            echo "Sem mudanças para commit."
-          else
-            git add ${{ env.STATS_OUTPUT_DIR }}/github-readme-stats.svg
-            git commit -m "Update GitHub Stats"
-            git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/jeffthedeveloper/seu-repo.git
-          fi
+          
+          git add ${{ env.STATS_OUTPUT_DIR }}/github-readme-stats.svg
+          git commit -m "Update GitHub Stats"
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/jeffthedeveloper/jeffthedeveloper.git
