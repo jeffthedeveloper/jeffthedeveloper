@@ -31,11 +31,7 @@
 
 - ⚡ Fun fact **I think you are not here for accident kkk =D**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
- I could contribute in the respective languages:
+I could contribute in the respective languages:
  
   - ◘ Spanish
   - ◘ English
@@ -46,6 +42,20 @@
 | [Whatsapp](https://api.whatsapp.com/send?phone=83996258911&text=Whatsapp)
 
 >                                     "Persistence is the path to success." - Charles Chaplin
+
+
+### Connect with me:
+
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/jeffersonfir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/jeffersonfir" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/dashboard/recent?workspace=ws_ehen5t4akq76y8jxce3abk&new_workspace=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/recent?workspace=ws_ehen5t4akq76y8jxce3abk&new_workspace=true" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/professorjefferson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/professorjefferson" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jefferson.firme/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jefferson.firme/" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/jeffersonmendes7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/jeffersonmendes7" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@jeffersonfirmino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jeffersonfirmino" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/jeffersonfir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/jeffersonfir" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/dD7Ch3UB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/dD7Ch3UB" height="30" width="40" /></a>
+</p>
 
 ### Languages and Technologies
 
@@ -94,6 +104,9 @@
 [![Jefferson Firmino Mendes' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeffthedeveloper&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/https://www.paypal.com/donate/?business=3P3W53NWLTEGS&no_recurring=0&item_name=Doe+para+o+manuten%C3%A7%C3%A3o+do+reposit%C3%B3rio+e+apoie+a+educa%C3%A7%C3%A3o+em+Ci%C3%AAncia+de+Dados+no+Brasil.+Sua+ajuda+%C3%A9+importante%21&currency_code=BRL"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://www.paypal.com/donate/?business=3P3W53NWLTEGS&no_recurring=0&item_name=Doe+para+o+manuten%C3%A7%C3%A3o+do+reposit%C3%B3rio+e+apoie+a+educa%C3%A7%C3%A3o+em+Ci%C3%AAncia+de+Dados+no+Brasil.+Sua+ajuda+%C3%A9+importante%21&currency_code=BRL" /></a></p><br><br>
 
 # 🎓 Academic Background
 
