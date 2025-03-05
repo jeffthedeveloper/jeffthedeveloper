@@ -52,9 +52,10 @@
 
 <div align="center">
 <a href="https://github.com/jeffthedeveloper">
-<img height="130em" src="./github-readme-stats.svg"/>
+<img height="130em" src="https://raw.githubusercontent.com/jeffthedeveloper/jeffthedeveloper/main/github-readme-stats.svg"/>
 </a>
 </div>
+
 
 
 <div align="center">
