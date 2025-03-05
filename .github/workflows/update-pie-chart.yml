@@ -1,0 +1,50 @@
+name: Update Pie Chart
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Executa a cada hora
+  workflow_dispatch:  # Permite execução manual
+
+jobs:
+  update-pie-chart:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pie Chart
+        run: |
+          curl -o ./github-readme-stats-pie.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=pie&langs_count=5&theme=dracula&count_private=true&include_all_commits=true&v=2"
+
+      - name: Validate SVG File
+        run: |
+          if grep -i "error" ./github-readme-stats-pie.svg; then
+            echo "Erro na geração do gráfico de pizza!"
+            cat ./github-readme-stats-pie.svg
+            exit 1
+          fi
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --exit-code ./github-readme-stats-pie.svg; then
+            echo "No changes detected."
+            echo "has_changes=false" >> $GITHUB_ENV
+          else
+            echo "Changes detected."
+            echo "has_changes=true" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and push changes
+        if: env.has_changes == 'true'
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          
+          git add ./github-readme-stats-pie.svg
+          git commit -m "Update Pie Chart"
+          
+          # 🔽 INSIRA SEU TOKEN AQUI 🔽
+          git push https://x-access-token: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@github.com/jeffthedeveloper/seu-repo.git
