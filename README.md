@@ -43,6 +43,7 @@ I could contribute in the respective languages:
 
 >                                     "Persistence is the path to success." - Charles Chaplin
 
+<hr>
 
 ### Connect with me:
 
@@ -57,24 +58,56 @@ I could contribute in the respective languages:
 <a href="https://discord.gg/https://discord.gg/dD7Ch3UB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/dD7Ch3UB" height="30" width="40" /></a>
 </p>
 
+<hr>
+
 ### Languages and Technologies
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </p> </a>  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> </a>
+🧠 Inteligência Artificial e Machine Learning
+
+<p align ="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tensorflow/tensorflow-original-wordmark.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pytorch/pytorch-original.svg" width="40" height="40"> </p>
+
+💻 Desenvolvimento Web
+
+<p align ="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"> </p>
+
+🛢️ Banco de Dados
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
+
+🛠️ DevOps
+
+<p align ="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"></p>
+
+☁️ Computação em Nuvem
+
+<p align ="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"></p>
+
+🧠 Tecnologias em Crescimento
+
+<p align ="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40"></p>
+
+🧠 Tecnologias Emergentes
+
+<p align ="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rust/rust-original.svg" width="40" height="40"></p>
 
 <br>
 
-📚 Currently Specializing In
-
-🤖 LLMs (Large Language Models) & AI applications
-
-🎯 Model Training (e.g., GPT-J 6B)
-
-🔥 Firebase & backend integrations
-
-🌟 Emerging Technologies (Cloud, AI, MLOps)
-
-
-<br>
+<hr>
 
 ## 🚀 Tecnologias para IA e Data Science  
 
@@ -83,9 +116,7 @@ I could contribute in the respective languages:
 [![ATI](https://img.shields.io/badge/ATI-Graphics-990000?logo=amd&logoColor=white)](https://www.amd.com/en/technologies/radeon)  
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-FFDD55?logo=huggingface&logoColor=black)](https://huggingface.co/)  
 
-
 <br>
-
 
 <div align="center">
 <a href="https://github.com/jeffthedeveloper">
@@ -105,13 +136,15 @@ I could contribute in the respective languages:
 
 <br>
 
-<h3 align="left">Support:</h3>
+<h3 align="center">Support:</h3><br>
+
 <p><a href="https://ko-fi.com/https://www.paypal.com/donate/?business=3P3W53NWLTEGS&no_recurring=0&item_name=Doe+para+o+manuten%C3%A7%C3%A3o+do+reposit%C3%B3rio+e+apoie+a+educa%C3%A7%C3%A3o+em+Ci%C3%AAncia+de+Dados+no+Brasil.+Sua+ajuda+%C3%A9+importante%21&currency_code=BRL"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://www.paypal.com/donate/?business=3P3W53NWLTEGS&no_recurring=0&item_name=Doe+para+o+manuten%C3%A7%C3%A3o+do+reposit%C3%B3rio+e+apoie+a+educa%C3%A7%C3%A3o+em+Ci%C3%AAncia+de+Dados+no+Brasil.+Sua+ajuda+%C3%A9+importante%21&currency_code=BRL" /></a></p><br><br>
 
 # 🎓 Academic Background
 
 ## 🎓 Postgraduate in Data Science (Big Data)  
 **@ Univitória (2025 - 2026, Ongoing)**  
+
 🔹 **Key Subjects:** Big Data, Hadoop, Spark, NoSQL, AI & Machine Learning  
 🔹 **Skills:** PyTorch, Big Data Analytics, Predictive Analytics  
 
@@ -119,6 +152,7 @@ I could contribute in the respective languages:
 
 ## 🎓 Postgraduate in Software Engineering  
 **@ Faculdade Focus (2023)**  
+
 🔹 **Key Areas:** Agile Methods, IT Governance, System Analysis  
 🔹 **Skills:** Scrum, IT Project Management, Software Development  
 
@@ -132,18 +166,21 @@ I could contribute in the respective languages:
 
 ## 🎓 Data & Systems Analysis  
 **@ UNOPAR (2021 - 2022)**  
+
 🔹 **Skills:** SQL, Data Modeling, Data Analysis  
 
 ---
 
 ## 🎓 Financial Management  
 **@ UNOPAR (2021)**  
+
 🔹 **Skills:** Financial Modeling, Business Intelligence, Data-Driven Decisions  
 
 ---
 
 ## 🎓 Computer Maintenance & Support  
 **@ SENAI (2013 - 2014)**  
+
 🔹 Initial exposure to data processing & IT fundamentals  
 
 ---
@@ -151,6 +188,7 @@ I could contribute in the respective languages:
 # 🏆 Core Competencies  
 
 ## 🔥 Tech & AI  
+
 🧠 **Machine Learning & AI:** PyTorch, TensorFlow, Generative AI, Transformers (Hugging Face)  
 📊 **Big Data & Cloud:** Hadoop, Spark, GCP, MLOps  
 🚀 **Web & Backend:** Flask, React.js, Node.js, Firebase  
@@ -158,7 +196,8 @@ I could contribute in the respective languages:
 
 ---
 
-## 🎯 Programming & Development  
+## 🎯 Programming & Development 
+
 💻 **Languages:** Python, Java, JavaScript, TypeScript, SQL, HTML, CSS, Sass  
 🛠 **Frameworks & Libraries:** Pandas, NumPy, Scikit-Learn, Bootstrap  
 🖥 **Dev Tools:** GitHub, Docker, Microsoft Office, Adobe Creative Suite  
@@ -166,6 +205,7 @@ I could contribute in the respective languages:
 ---
 
 ## 📊 Business & Management  
+
 🎯 **IT Governance & Management**  
 🔄 **Agile Methodologies:** Scrum, Kanban  
 💡 **Data-Driven Decision Making**  
@@ -174,6 +214,7 @@ I could contribute in the respective languages:
 ---
 
 # 🎯 LinkedIn-Approved Skills  
+
 🐍 Python  
 📊 SQL & Data Science  
 📐 Mathematics & Statistics  
