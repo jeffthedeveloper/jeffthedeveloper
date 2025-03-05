@@ -51,4 +51,6 @@ jobs:
           
           git add ${{ env.STATS_OUTPUT_DIR }}/github-readme-stats.svg
           git commit -m "Update GitHub Stats"
-          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/jeffthedeveloper/jeffthedeveloper.git
+          
+          # 🔽 INSIRA SEU TOKEN AQUI 🔽
+          git push https://x-access-token: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@github.com/jeffthedeveloper/jeffthedeveloper.git
