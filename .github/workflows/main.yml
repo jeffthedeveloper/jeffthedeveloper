@@ -12,12 +12,12 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v2
-      - uses: anuraghazra/github-readme-stats@v1
+      - uses: anuraghazra/github-readme-stats@latest # Alterado para latest
         with:
           username: jeffthedeveloper
           show_icons: true
           include_all_commits: true
-      - uses: anuraghazra/github-readme-stats@v1
+      - uses: anuraghazra/github-readme-stats@latest # Alterado para latest
         with:
           username: jeffthedeveloper
           show_icons: true
