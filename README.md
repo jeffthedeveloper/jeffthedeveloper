@@ -127,9 +127,10 @@ I could contribute in the respective languages:
 <br>
 
 <div align="center">
-  
-<a href="https://github.com/jeffthedeveloper">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/jeffthedeveloper">
+    <img height="330em" src="./stats/github-readme-stats.svg" />
+  </a>
+</div>
 
 
 [![Contribuições 2024](https://img.shields.io/badge/Contribuições%202024-129-blue)](https://github.com/jeffthedeveloper)
