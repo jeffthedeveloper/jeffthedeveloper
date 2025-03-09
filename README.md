@@ -71,6 +71,17 @@ I could contribute in the respective languages:
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tensorflow/tensorflow-original-wordmark.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pytorch/pytorch-original.svg" width="40" height="40"> </p>
 
+📲 Mobile Development
+
+<p align="left">
+  <a href="https://flutter.dev/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" height="40" width="40" />
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/reactnative-colored.svg" alt="React Native" height="40" width="40" />
+  </a>
+</p>
+
 💻 Web Development
 
 <p align ="left">
