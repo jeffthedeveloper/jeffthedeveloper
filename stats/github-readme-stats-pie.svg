@@ -1,8 +1,8 @@
 
       <svg
-        width="350"
+        width="300"
         height="425"
-        viewBox="0 0 350 425"
+        viewBox="0 0 300 425"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -46,7 +46,7 @@
     }
     .bold { font-weight: 700 }
     .lang-name {
-      font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
+      font: 400 10px "Segoe UI", Ubuntu, Sans-Serif;
       fill: #f8f8f2;
     }
     .stagger {
