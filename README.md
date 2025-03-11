@@ -139,7 +139,7 @@ I could contribute in the respective languages:
 <div align="center">
   
 <a href="https://github.com/jeffthedeveloper">
-<img height="330em" src="https://raw.githubusercontent.com/jeffthedeveloper/jeffthedeveloper/674795e91ac35434ccb0b58e65dcbbe2dba58857/github-readme-stats.svg"/>
+<img height="330em" src="https://raw.githubusercontent.com/jeffthedeveloper/jeffthedeveloper/ed8b6b64c487dcf7446bd720590d233d2921fb35/stats/github-readme-stats-pie.svg"/>
 </a>
 
 [![Contribuições 2024](https://img.shields.io/badge/Contribuições%202024-129-blue)](https://github.com/jeffthedeveloper)
