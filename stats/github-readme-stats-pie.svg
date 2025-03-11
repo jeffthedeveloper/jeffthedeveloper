@@ -46,7 +46,7 @@
     }
     .bold { font-weight: 700 }
     .lang-name {
-      font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
+      font: 400 10px "Segoe UI", Ubuntu, Sans-Serif;
       fill: #f8f8f2;
     }
     .stagger {
