@@ -23,7 +23,7 @@ jobs:
           curl -o ./stats/github-readme-stats.svg "https://github-readme-stats.vercel.app/api?username=jeffthedeveloper&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800"
 
           # Gerar gráfico de pizza
-          curl -o ./stats/github-readme-stats-pie.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=pie&langs_count=7&exclude_langs=Jupyter%20Notebook&theme=dracula&count_private=true&include_all_commits=true&v=2"
+          curl -o ./stats/github-readme-stats-pie.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=pie&langs_count=10&theme=dracula&count_private=true&include_all_commits=true&v=2"
 
       - name: Validate SVG Files
         run: |
