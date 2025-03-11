@@ -57,4 +57,4 @@ jobs:
           git commit -m "Update GitHub Stats & Pie Chart"
           
           # 🔽 INSIRA SEU TOKEN AQUI 🔽
-          git push https://x-access-token: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@github.com/jeffthedeveloper/seu-repo.git
+          git push https://x-access-token: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@github.com/jeffthedeveloper/jeffthedeveloper.git
