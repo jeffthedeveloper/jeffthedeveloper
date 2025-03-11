@@ -123,7 +123,7 @@ I could contribute in the respective languages:
 
 <div align="center">
   <a href="https://github.com/jeffthedeveloper">
-    <img height="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=pie&langs_count=5&theme=dracula&count_private=true&include_all_commits=true&v=2" />
+<img height="330em" src="https://raw.githubusercontent.com/jeffthedeveloper/jeffthedeveloper/ed8b6b64c487dcf7446bd720590d233d2921fb35/stats/github-readme-stats-pie.svg"/>
   </a>
 </div>
 
@@ -138,9 +138,7 @@ I could contribute in the respective languages:
 
 <div align="center">
   
-<a href="https://github.com/jeffthedeveloper">
-<img height="330em" src="https://raw.githubusercontent.com/jeffthedeveloper/jeffthedeveloper/ed8b6b64c487dcf7446bd720590d233d2921fb35/stats/github-readme-stats-pie.svg"/>
-</a>
+
 
 [![Contribuições 2024](https://img.shields.io/badge/Contribuições%202024-129-blue)](https://github.com/jeffthedeveloper)
 [![Contribuições 2023](https://img.shields.io/badge/Contribuições%202023-34-green)](https://github.com/jeffthedeveloper)
