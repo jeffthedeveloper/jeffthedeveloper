@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences
 
-  [https://bit.ly/3Dv8EDk14)]
+  [https://bit.ly/3Dv8EDk14]
 
 - ⚡ Fun fact **I think you are not here for accident kkk =D**
 
