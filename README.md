@@ -49,20 +49,18 @@
 
 ---
 
+
 ## 🎓 Academic Background
 
 My academic path blends systems analysis and software engineering with ongoing studies in data science and computer science:
 
 - 🧮 **Computer Science** – Faculdade Focus *(Ongoing)*
 - 📊 **Postgrad in Big Data** – Univitória *(Ongoing)*
-- 🧠 **Postgrad in Software Engineering** – Faculdade Focus *(2023)*
-- 💻 **Technologist in Systems Analysis** – UNOPAR *(2016–2022)*
-- 💰 **Technologist in Financial Management** – UNOPAR *(2017–2021)*
+- 🧠 **POSTGRAD IN SOFTWARE ENGINEERING** – **FACULDADE FOCUS (2023)** – **✅ CONCLUDED**
+- 💻 **TECHNOLOGIST IN SYSTEMS ANALYSIS** – **UNOPAR (2016–2022)** – **✅ CONCLUDED**
+- 💰 **TECHNOLOGIST IN FINANCIAL MANAGEMENT** – **UNOPAR (2017–2021)** – **✅ CONCLUDED**
 
-> Early studies include Web Design & IT Maintenance at **SENAI (2011–2014)** and an initial degree in Computer Science at a public university (2015–2016).
-
----
-
+> Early studies include **Web Design** & **IT Maintenance** at **SENAI (2011–2014)** and an initial degree in **Computer Science** at a public university (2015–2016).
 ## 📜 Certifications & Languages
 
 - ✅ **Certifications**: IBM Data Science Professional, IBM Linux & Shell
