@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jefferson Firmino</h1>
 
-<h3 align="center">A passionate Full Stack developer and Data Science student from Brazil</h3>
+<h3 align="center">29-year-old Computer Science Student | Aspiring Developer | AI and Automation Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeffthedeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="Views"/>
@@ -25,7 +25,7 @@
 - 💬 Ask me about **Data Science, Python and general coding processes.**
 - 📫 How to reach me: **jeffersonfir@gmail.com**
 - 📄 Learn more about my experiences: [https://bit.ly/3Dv8EDk14]
-- ⚡ Fun fact: **I'm 29 years old and believe in learning by building.**
+- ⚡ Fun fact: **I believe in learning by building.**
 
 ---
 
@@ -70,7 +70,7 @@
 ### 🛠️ Technical Skills
 
 - **Languages:** Python, Java, JavaScript, SQL, HTML, CSS.
-- **AI & Machine Learning:** PyTorch, TensorFlow, Hugging Face, Generative AI.
+- **AI & Machine Learning:** Prototyping with PyTorch and TensorFlow, with knowledge of models like **GPT**, **Gemini**, **DeepSeek** and **Manus**.
 - **Big Data:** Hadoop, Spark, NoSQL.
 - **Web Development:** React.js, Node.js, Flask, Firebase.
 - **Tools & Platforms:** Git/GitHub, Docker, Power BI, VSCode.
@@ -84,8 +84,8 @@
     - **Key Topics:** Big Data & Data Management, Data Normalization, Predictive Analysis, NoSQL with MongoDB, Hadoop & Spark Architecture, Cloud Computing.
 - **Postgraduate in Software Engineering:** Faculdade Focus (2023)
 - **Bachelor's in Accounting and Finance:** Universidade Estadual da Paraíba (2017 - 2019)
-- **Technologist in Financial Management:** UNOPAR (2017 - 2021)
 - **Technologist in Systems Analysis and Development:** UNOPAR (2016 - 2022)
+- **Technologist in Financial Management:** UNOPAR (2017 - 2021)
 - **Computer Science:** Universidade Federal de Campina Grande (2015 - 2016)
 - **Computer Maintenance & Support:** SENAI (2012 - 2014)
 - **Web Design:** Infogenius (2011)
