@@ -13,7 +13,7 @@ console.log("hello world")
 
 - 💬 Ask me about **Data Science, Python and general coding processes.**
 
-- 📫 How to reach me: **professorjefferson.site@gmail.com**
+- 📫 How to reach me on e-mail: **jeffersonfir@gmail.com**
 
 - 📄 Learn more about my experiences: [https://bit.ly/3Dv8EDk14]
 
