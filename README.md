@@ -25,7 +25,7 @@
 - 💬 Ask me about **Data Science, Python and general coding processes.**
 - 📫 How to reach me: **jeffersonfir@gmail.com**
 - 📄 Learn more about my experiences: [https://bit.ly/3Dv8EDk14]
-- ⚡ Fun fact: **I believe in learning by building.**
+- ⚡ Fun fact: **I'm 29 years old and believe in learning by building.**
 
 ---
 
@@ -79,52 +79,24 @@
 
 ### 🎓 Academic Background
 
+- **Computer Science:** Faculdade Focus (Ongoing)
 - **Postgraduate in Big Data:** Univitória (Ongoing)
+    - **Key Topics:** Big Data & Data Management, Data Normalization, Predictive Analysis, NoSQL with MongoDB, Hadoop & Spark Architecture, Cloud Computing.
 - **Postgraduate in Software Engineering:** Faculdade Focus (2023)
-- **Technologist in Systems Analysis and Development:** UNOPAR (2021 - 2022)
+- **Bachelor's in Accounting and Finance:** Universidade Estadual da Paraíba (2017 - 2019)
 - **Technologist in Financial Management:** UNOPAR (2017 - 2021)
+- **Technologist in Systems Analysis and Development:** UNOPAR (2016 - 2022)
 - **Computer Science:** Universidade Federal de Campina Grande (2015 - 2016)
+- **Computer Maintenance & Support:** SENAI (2012 - 2014)
+- **Web Design:** Infogenius (2011)
 
 ---
 
 ### 🏅 Certifications & Languages
 
 - **Certifications:** IBM Data Science Professional, IBM Linux Commands and Shell.
-- **Languages I can contribute in:** Portuguese (Native), English (Fluent), Spanish (Fluent).
+- **Languages I can contribute in:** Portuguese (Native), English (Intermediate), Spanish (Basic).
 
 ---
 
-### 📊 GitHub Stats
-
-<br>
-<div align="center">
-  <a href="https://github.com/jeffthedeveloper">
-    <img height="330em" src="https://raw.githubusercontent.com/jeffthedeveloper/jeffthedeveloper/ed8b6b64c487dcf7446bd720590d233d2921fb35/stats/github-readme-stats-pie.svg"/>
-  </a>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffthedeveloper&theme=dracula" />
-</div>
-
----
-
-### 🔗 Connect with me
-
-<p align="left">
-<a href="https://codepen.io/jeffersonfir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/jeffersonfir" height="30" width="40" /></a>
-<a href="https://codesandbox.io/dashboard/recent?workspace=ws_ehen5t4akq76y8jxce3abk&new_workspace=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/recent?workspace=ws_ehen5t4akq76y8jxce3abk&new_workspace=true" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/professorjefferson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/professorjefferson" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jefferson.firme/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jefferson.firme/" height="30" width="40" /></a>
-<a href="https://www.behance.net/jeffersonmendes7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/jeffersonmendes7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@jeffersonfirmino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jeffersonfirmino" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/jeffersonfir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/jeffersonfir" height="30" width="40" /></a>
-<a href="https://discord.gg/dD7Ch3UB" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/dD7Ch3UB" height="30" width="40" /></a>
-</p>
-
----
-
-<h3 align="center">Support:</h3>
-<p align ="center">
-  <a href="https://www.paypal.com/donate/?business=3P3W53NWLTEGS&no_recurring=0&item_name=Doe+para+o+manuten%C3%A7%C3%A3o+do+reposit%C3%B3rio+e+apoie+a+educa%C3%A7%C3%A3o+em+Ci%C3%AAncia+de+Dados+no+Brasil.+Sua+ajuda+%C3%A9+importante%21&currency_code=BRL">
-    <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="PayPal Support" />
-  </a>
-</p>
+> "Persistence is the path to success." - Charles Chaplin
