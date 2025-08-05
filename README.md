@@ -1,46 +1,32 @@
-`console.log("hello world")` 
+console.log("hello world")
 
 <h1 align="center">Hi 👋, I'm Jefferson Firmino</h1>
 
-<h3 align="center">A passionate Full Stack developer and a Post Graduation Data Scientist Researcher from Brazil</h3>
+<h3 align="center">A passionate Full Stack developer and Data Science student from Brazil</h3>
 <br><br>
 
-- 🔭 I’m currently working on **Automatizations and LLM/MLOPS Projects**
+- 🔭 I’m currently working on **personal projects related to Automation and MLOps.**
 
-- 🌱 I’m currently learning **📚 Currently Specializing In Data Science**
+- 🌱 I’m currently expanding my skills in **Data Science and Large Language Models (LLMs).**
 
-- 👯 I’m looking to collaborate on **Enterprises, Industries, Services Providers, and make Business Associations, Atract Sponsors, To Guarantee
- Fix Jobs and Passive Incomes and Also Freelancer Roles**
+- 👯 I’m looking to collaborate on **open-source projects and to connect with companies for internship or junior positions.**
 
-- 🤝 I’m looking for help with **FullStack Projects, OpenSource Projects and DataScience Oportunities for help with freeware and  private projects.**
+- 💬 Ask me about **Data Science, Python and general coding processes.**
 
-- 👨‍💻 All of my considerating projects will be available here!
+- 📫 How to reach me: **professorjefferson.site@gmail.com**
 
-- OBS: The most will be private
+- 📄 Learn more about my experiences: [https://bit.ly/3Dv8EDk14]
 
-- 📝 I regularly write articles on
+- ⚡ Fun fact: **I believe in learning by building.**
 
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/professorjefferson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/professorjefferson" height="30" width="40" /></a>
-  
-- 💬 Ask me about **DataScience and General Codification Processes**
+**Languages I can contribute in:**
 
-- 📫 How to reach me **professorjefferson.site@gmail.com**
+- Spanish
+- English
+- Portuguese
 
-- 📄 Know about my experiences
-
-  [https://bit.ly/3Dv8EDk14]
-
-- ⚡ Fun fact **I think you are not here for accident kkk =D**
-
-I could contribute in the respective languages:
- 
-  - ◘ Spanish
-  - ◘ English
-  - ◘ Portuguese
-  
--  Ask me about any doubt, anything call me on linkedin chat or whatsapp;
-  
-| [Whatsapp](https://api.whatsapp.com/send?phone=83996258911&text=Whatsapp)
+**Talk with me:**
+[LinkedIn](https://www.linkedin.com/in/professorjefferson) | [WhatsApp](https://api.whatsapp.com/send?phone=83996258911&text=Whatsapp)
 
 >                                     "Persistence is the path to success." - Charles Chaplin
 
