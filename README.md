@@ -77,18 +77,17 @@
 
 ---
 
-### 🎓 Academic Background
+### 🎓 Academic Technological Background
+
+My journey in technology began with foundational courses in Web Design (2011) and Computer Maintenance & Support (2012–2014) at SENAI, which sparked my passion for the field. I built on this by starting a degree in Computer Science (2015–2016) at a public university, where I developed strong logical and analytical thinking. At the same time, I pursued a broader business perspective through studies in Accounting and Finance (2017–2019) at Universidade Estadual da Paraíba and a degree in Financial Management. After passing a municipal civil service exam, I transitioned to distance learning (EAD) during the COVID-19 pandemic, further expanding my academic path. Today, I’m strengthening this interdisciplinary foundation through advanced studies in Big Data (Postgraduate – ongoing) and a new Computer Science degree (ongoing), aiming to apply this diverse background to drive innovation in tech.
 
 - **Computer Science:** Faculdade Focus (Ongoing)
 - **Postgraduate in Big Data:** Univitória (Ongoing)
     - **Key Topics:** Big Data & Data Management, Data Normalization, Predictive Analysis, NoSQL with MongoDB, Hadoop & Spark Architecture, Cloud Computing.
-- **Postgraduate in Software Engineering:** Faculdade Focus (2023)
-- **Bachelor's in Accounting and Finance:** Universidade Estadual da Paraíba (2017 - 2019)
-- **Technologist in Systems Analysis and Development:** UNOPAR (2016 - 2022)
-- **Technologist in Financial Management:** UNOPAR (2017 - 2021)
-- **Computer Science:** Universidade Federal de Campina Grande (2015 - 2016)
-- **Computer Maintenance & Support:** SENAI (2012 - 2014)
-- **Web Design:** Infogenius (2011)
+- **Postgraduate in Software Engineering:** Faculdade Focus (2023) **(Concluded)**
+    - **Key Topics:** Software Lifecycle Optimization, Software Architecture and Design Patterns, Requirements Engineering, DevOps Methodologies, Information Security and IT Governance, IT Management, Scalable Technology Infrastructures, Integration of Data and AI Solutions.
+- **Technologist in Systems Analysis and Development:** UNOPAR (2016 - 2022) **(Concluded)**
+- **Technologist in Financial Management:** UNOPAR (2017 - 2021) **(Concluded)**
 
 ---
 
