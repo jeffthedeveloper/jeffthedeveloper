@@ -24,7 +24,7 @@
 - 🌱 I’m currently expanding my skills in **Data Science and Large Language Models (LLMs).**
 - 🤝 Looking for **internship/junior developer** opportunities and collaborate on **open-source projects**
 - 💬 Ask me about **Python, Data Science, general coding processes & APIs**
-- 📫 Reach me at: **jeffersonfir@gmail.com**
+- 📫 Reach me at: **jefferson.ds.consultoria@gmail.com**
 - 🧠 I believe in **learning by building**
 
 ---
