@@ -79,7 +79,7 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
       <p>A full-featured <strong>finance management dashboard</strong>, showcasing real-time analytics, interactive
         charts, and data integration from multiple sources. Built with <strong>React + Python</strong> for a complete
         fullstack experience.</p>
-      <p><a href="https://github.com/jeffthedeveloper/FinanceDashboardV2"><strong>View Code »</strong></a></p>
+      <p><a href="https://github.com/jeffthedeveloper/finance-dashboard02"><strong>View Code »</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🐟 Scratch Game "Fish Hunt" (Windows & Linux)</h3>
