@@ -160,7 +160,7 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
 * **Most Used Languages (Fullstack Focus)**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffthedeveloper&layout=compact&hide=html,Jupyter%20Notebook,css,javascript,python,Visual%20Basic%20.%20Net" alt="Top Languages in Fullstack Projects" />
+<img src="https://raw.githubusercontent.com/jeffthedeveloper/jeffthedeveloper/77973724a2e4e2668a60ae6a45ed05e685d12d6d/stats/github-readme-stats-pie.svg" alt="Top Languages in Fullstack Projects" />
 </p>
 
 <p align="center">
