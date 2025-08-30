@@ -43,16 +43,15 @@ jobs:
             echo "has_changes=true" >> $GITHUB_ENV
           fi
 
-
       - name: Deploy to GitHub Pages
         if: env.has_changes == 'true'
         run: |
-          git remote set-url origin https://github.com/jeffthedeveloper/jeffthedeveloper.git
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add ${{ env.STATS_OUTPUT_DIR }}/github-readme-stats.svg
           git commit -m "Update GitHub Stats"
-          git push origin main --force
+
+          # A linha abaixo usa o token seguro e automático do GitHub Actions
+          # The row down below uses the secure and automatic token provided from Github Actions
+          git push
           
-          # 🔽 INSIRA SEU TOKEN AQUI 🔽
-          git push https://x-access-token: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@github.com/jeffthedeveloper/jeffthedeveloper.git
