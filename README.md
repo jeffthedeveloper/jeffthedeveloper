@@ -180,7 +180,7 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2500&color=ffffff&background=000000&width=1200&lines=%22The+best+way+to+predict%0Athe+future+is+to+invent+it.%22%0A-%20Alan+Kay,+POO+pioneer+and+creator+of+Smalltalk;%22Simplicity+is+a+prerequisite%0Afor+reliability.%22%0A-%20Edsger+W.+Dijkstra,+1972+Turing+Award+winner;%22Science+is+what+we+understand...%0AArt+is+everything+else+we+do.%22%0A-%20Donald+Knuth,+author+of+'The+Art+of+Computer+Programming'" alt="Quotes typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2500&color=ffffff&background=000000&width=1200&lines=%22The+best+way+to+predict%0Athe+future+is+to+invent+it.%22%0A-%20Alan+Kay,+POO+pioneer+and+creator+of+Smalltalk;%22Simplicity+is+a+prerequisite%0Afor+reliability.%22%0A-%20Edsger+W.+Dijkstra,+1972+Turing+Award+winner;%22Science+is+what+we+understand...%0AArt+is+everything+else+we+do.%22%0A-%20Donald+Knuth,+author+of+'The+Art+of+Computer+Programming'" alt="Quotes typing animation"/>
 </p>
 
 
