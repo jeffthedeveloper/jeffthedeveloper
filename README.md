@@ -187,6 +187,36 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
        alt="Histórico de Contribuições de jeffthedeveloper" width="100%"/>
 </p>
 
+---
+
+---
+
+## <img src="https://img.icons8.com/ios-filled/24/000000/line-chart.png" alt="Chart Icon"/> Productivity Philosophy: Commits vs. Lines of Code
+
+> Based on insights from the **GitClear** study (2020-2024), which analyzed 878,592 developer-years, my productivity approach focuses on **commit frequency** as a more stable and reliable indicator than lines of code. Commits reflect a true measure of activity and consistent progress.
+
+With **889 contributions in the last year**, my profile aligns with high-performing developers, demonstrating a steady acceleration toward the **Top 30%** benchmark (1,000+ commits/year).
+
+### Productivity Benchmarks (Commits/Year)
+
+The global productivity spectrum reveals the following distribution:
+
+| Percentile | Commits per Year | Activity Level |
+| :--- | :---: | :--- |
+| **Top 1%** | **4,307** | Elite |
+| **Top 10%** | **1,647** | High Performance |
+| **Median** | **417** | Active Developer |
+| **Below Average** | **130** | Occasional |
+
+### The Senior Developer Profile (Top 30%)
+
+Professionals who exceed 1,000 commits annually exhibit distinct habits and metrics:
+
+-   <img src="https://img.icons8.com/ios-filled/20/000000/target.png" alt="Target Icon"/> **Median Commits:** **1,563/year** (~6.5 per workday).
+-   <img src="https://img.icons8.com/ios-filled/20/000000/calendar.png" alt="Calendar Icon"/> **Active Days:** Between **200-250 days** per year.
+-   <img src="https://img.icons8.com/ios-filled/20/000000/light-on.png" alt="Lightbulb Icon"/> **AI Impact:** Tools like Copilot are increasing the volume of changes (*Diff Delta*) per commit, optimizing workflows rather than just inflating commit counts.
+
+This philosophy guides my daily work, focusing on consistent and measurable value delivery.
 
 ---
 
