@@ -1,9 +1,12 @@
 name: Generate Snake
 
 on:
-  schedule: # gera automaticamente todo dia
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # permite rodar manualmente
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -12,9 +15,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: jeffthedeveloper
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake.gif
 
-      - name: Push Snake to the output branch
+      - name: Push Snake SVG & GIF to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
