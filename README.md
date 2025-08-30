@@ -164,8 +164,11 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffthedeveloper&theme=default" alt="Profile Summary Card" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffthedeveloper&theme=github-compact&hide_border=true&area=true&custom_title=Histórico%20de%20Contribuições%20(3%2B%20Anos)" 
+       alt="Histórico de Contribuições de jeffthedeveloper" width="100%"/>
 </p>
+
+
 
 ---
 
