@@ -28,68 +28,83 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 End-to-End MLOps Pipeline</h3>
+      <h3>
+   <img src="https://www.svgrepo.com/show/373976/pipeline.svg" width="40px" alt="ChatGPT logo"/>
+  End-to-End MLOps Pipeline
+</h3>
       <p>A production-ready <strong>MLOps pipeline</strong> serving a <strong>GPT-2</strong> model via a RESTful API
         (<strong>Flask</strong>), fully containerized with <strong>Docker</strong>. Code quality and integrity are
         ensured via CI/CD with <strong>GitHub Actions</strong> and unit tests (<strong>Pytest</strong>).</p>
       <p><a href="https://github.com/jeffthedeveloper/MLOPS"><strong>View Code »</strong></a></p>
-      <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img
-          src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img
-          src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img
-          src="https://img.shields.io/badge/CI/CD-000?style=for-the-badge&logo=githubactions&logoColor=white" /> </p>
+      <p> 
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/CI/CD-000?style=for-the-badge&logo=githubactions&logoColor=white" /> 
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Full-Stack Management Dashboard</h3>
+      <h3><img src="https://www.svgrepo.com/show/324142/dashboard-graph-analytics-report.svg" width="40px"/> Full-Stack Management Dashboard</h3>
       <p>An interactive <strong>task management dashboard</strong> built with <strong>React (TypeScript)</strong>
         frontend and a robust <strong>Python</strong> backend. Fully responsive and designed for real-time operations
         management, demonstrating end-to-end system architecture.</p>
       <p><a href="https://github.com/jeffthedeveloper/Dashboard-Ordens-de-Servi-o"><strong>View Code »</strong></a></p>
-      <p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img
-          src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p>
+      <p> 
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Conversational AI Assistant</h3>
+      <h3><img src="https://www.svgrepo.com/show/452634/ai.svg" width="40px"/> Conversational AI Assistant</h3>
       <p>An AI assistant integrating text generation with <strong>GPT</strong>, context analysis, and audio output via
         <strong>Text-to-Speech (TTS)</strong>. The project uses modern <strong>NLP techniques</strong> for interactive,
         functional conversation.</p>
       <p><a href="https://github.com/jeffthedeveloper/conversational-ai-assistant"><strong>View Code »</strong></a></p>
-      <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img
-          src="https://img.shields.io/badge/AI-000?style=for-the-badge&logo=openai&logoColor=white" /> <img
-          src="https://img.shields.io/badge/NLP-DB6223?style=for-the-badge" /> </p>
+      <p> 
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/AI-000?style=for-the-badge&logo=openai&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/NLP-DB6223?style=for-the-badge" /> 
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🕹️ Web Game "Mata Mosquito"</h3>
+      <h3><img src="https://www.svgrepo.com/show/397532/mosquito.svg" width="40px"/> Web Game "Mata Mosquito"</h3>
       <p>A web-based game in <strong>pure JavaScript</strong>, evolved from a study project to a responsive application
         with multiple difficulty levels, sound effects, and a CI/CD pipeline via <strong>GitHub Actions</strong> to
         ensure quality and integrity.</p>
       <p><a href="https://github.com/jeffthedeveloper/APP-Game-Mata-Mosquitov2"><strong>View Code »</strong></a></p>
-      <p> <img
-          src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img
-          src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p>
+      <p> 
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 Finance Dashboard V2</h3>
+      <h3><img src="https://www.svgrepo.com/show/429932/business-document-finance.svg" width="40px"/> Finance Dashboard V2</h3>
       <p>A full-featured <strong>finance management dashboard</strong>, showcasing real-time analytics, interactive
         charts, and data integration from multiple sources. Built with <strong>React + Python</strong> for a complete
         fullstack experience.</p>
       <p><a href="https://github.com/jeffthedeveloper/finance-dashboard02"><strong>View Code »</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🐟 Scratch Game "Fish Hunt" (Windows & Linux)</h3>
-      <p>A cross-platform <strong>Scratch-based game</strong> for Windows and Linux, demonstrating gamification and
+     <h3>
+  <img src="https://www.svgrepo.com/show/404938/cat-with-wry-smile.svg" width="40px" alt="Scratch logo" /> Scratch Game "Fish Hunt" (Windows & Linux)
+</h3>
+     <p>A cross-platform <strong>Scratch-based game</strong> for Windows and Linux, demonstrating gamification and
         interactive design. A multidisciplinary project combining programming logic, design, and user interaction.</p>
       <p><a href="https://github.com/jeffthedeveloper/caca-aos-peixes"><strong>View Code »</strong></a></p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>📊 IBM Data Science Capstone Project</h3>
+      <h3>
+        <img src="https://www.svgrepo.com/show/303377/ibm-logo.svg" width="40px" alt="IBM logo" /><br/>
+        IBM Data Science Capstone Project
+      </h3>
       <p>A professional certification project demonstrating an <strong>end-to-end data science workflow</strong>: from
         data extraction with <strong>Python & SQL</strong> to analysis, modeling, and machine learning deployment. This
         project validates my <strong>IBM Data Science Professional Certification</strong>.</p>
@@ -100,15 +115,16 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
   </tr>
 </table>
 
+
 ---
 
 | Categoria | Tecnologias | 
 | :--- | :--- | 
-| 🐍 **Python & Core** | Python, Docker, Git, CI/CD (GitHub Actions), Pytest, APIs REST |
-| 🤖 **IA & Machine Learning** | TensorFlow, PyTorch, Transformers, LangChain, Scikit-learn, Pandas, NLP | 
-| 🗃️ **Backend & Bases de Dados** | FastAPI, Flask, SQL (PostgreSQL), NoSQL (MongoDB), Node.js | 
-| ☁️ **Cloud & Big Data** | AWS, GCP, Spark, Apache Airflow | 
-| 🎨 **Front-End & Visualização** | JavaScript, React, TypeScript, HTML5, CSS3, Chart.js, Power BI |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> **Python & Core** | Python, Docker, Git, CI/CD (GitHub Actions), Pytest, APIs REST |
+| <img src="https://img.icons8.com/ios-filled/24/000000/artificial-intelligence.png" height="20"/> **IA & Machine Learning** | TensorFlow, PyTorch, Transformers, LangChain, Scikit-learn, Pandas, NLP |
+| <img src="https://img.icons8.com/ios-filled/24/000000/database.png" height="20"/> **Backend & Bases de Dados** | FastAPI, Flask, SQL (PostgreSQL), NoSQL (MongoDB), Node.js |
+| <img src="https://img.icons8.com/ios-filled/24/000000/cloud.png" height="20"/> **Cloud & Big Data** | AWS, GCP, Spark, Apache Airflow |
+| <img src="https://img.icons8.com/ios-filled/24/000000/paint-palette.png" height="20"/> **Front-End & Visualização** | JavaScript, React, TypeScript, HTML5, CSS3, Chart.js, Power BI |
 
 ---
 
@@ -142,10 +158,12 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/trophy.png"/> Professional Highlights
 
-| Focus Area                             | Details                                                                                                                                                                                                                                                                                                                                     |
-| :------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **High-Impact Python & AI Specialist** | • 🚀 **Processing Performance:** 1TB data processed in <1 hour using PySpark.<br>• ⚡ **Automation Efficiency:** Scripts 40% faster in Bash/Python.<br>• 🎯 **AI Model Accuracy:** 90% accuracy in NLP/CV models; 30% cost reduction via automation.<br>• 🔧 **Tool Mastery:** Proficient in 50+ tools: AWS, Docker, TensorFlow, Tesseract OCR. |
-| **Recognition**                        | <i>"IBM-certified professionals in the Top 5% deliver 15% infrastructure cost savings on average."</i><br><sub>Sources: Stack Overflow 2023, IEEE, Linux Foundation</sub>                                                                                                                                                                   |
+| Focus Area                             | Details                                                                                                                                                                                                                                                                                                                                 |
+| :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **High-Impact Python & AI Specialist** | • <img src="https://img.icons8.com/ios-filled/24/000000/python.png"/> **Processing Performance:** 1TB data processed in <1 hour using PySpark.<br>• <img src="https://img.icons8.com/ios-filled/24/000000/gear.png"/> **Automation Efficiency:** Scripts 40% faster in Bash/Python.<br>• <img src="https://img.icons8.com/ios-filled/24/000000/artificial-intelligence.png"/> **AI Model Accuracy:** 90% accuracy in NLP/CV models; 30% cost reduction via automation.<br>• <img src="https://img.icons8.com/ios-filled/24/000000/toolbox.png"/> **Tool Mastery:** Proficient in 50+ tools: AWS, Docker, TensorFlow, Tesseract OCR. |
+| **Recognition**                        | <i>"IBM-certified professionals in the Top 5% deliver 15% infrastructure cost savings on average."</i><br><sub>Sources: Stack Overflow 2023, IEEE, Linux Foundation</sub>                                                                                                                                                              |
+                                                                                   
+
 
 ---
 
@@ -168,6 +186,10 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
        alt="Histórico de Contribuições de jeffthedeveloper" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jeffthedeveloper/jeffthedeveloper/output/snake.svg
+" width="100%"/>
+</p>
 
 
 ---
@@ -186,10 +208,7 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2500&color=ffffff&background=000000&width=1200&lines=%22The+best+way+to+predict%0Athe+future+is+to+invent+it.%22%0A-%20Alan+Kay,+POO+pioneer+and+creator+of+Smalltalk;%22Simplicity+is+a+prerequisite%0Afor+reliability.%22%0A-%20Edsger+W.+Dijkstra,+1972+Turing+Award+winner;%22Science+is+what+we+understand...%0AArt+is+everything+else+we+do.%22%0A-%20Donald+Knuth,+author+of+'The+Art+of+Computer+Programming'" alt="Quotes typing animation"/>
 </p>
 
-
 ---
-
-
 
 <h3 align="center">Support</h3>
 <p align="center">
