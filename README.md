@@ -181,14 +181,10 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
 <img src="https://raw.githubusercontent.com/jeffthedeveloper/jeffthedeveloper/77973724a2e4e2668a60ae6a45ed05e685d12d6d/stats/github-readme-stats-pie.svg" alt="Top Languages in Fullstack Projects" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffthedeveloper&theme=github-compact&hide_border=true&area=true&custom_title=Histórico%20de%20Contribuições%20(3%2B%20Anos)" 
-       alt="Histórico de Contribuições de jeffthedeveloper" width="100%"/>
-</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jeffthedeveloper/jeffthedeveloper/output/snake.svg
-" width="100%"/>
+  <img src="https://github.com/jeffthedeveloper/jeffthedeveloper/blob/main/Contributions-Evolution.png?raw=true" 
+       alt="Histórico de Contribuições de jeffthedeveloper" width="100%"/>
 </p>
 
 
