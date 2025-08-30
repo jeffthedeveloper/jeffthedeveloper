@@ -115,7 +115,7 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/briefcase.png"/> Professional Journey & Background
 
-> Minha carreira combina uma base sólida em Engenharia de Software com perspectiva em Finanças. Isso permite construir soluções de IA e dados robustas e alinhadas a objetivos estratégicos. Transformo dados complexos em aplicações práticas e escaláveis que geram valor real.
+> My career combines a strong foundation in Software Engineering with a perspective in Finance. This enables me to build robust AI and data solutions aligned with strategic objectives. I transform complex data into practical, scalable applications that generate real value.
 
 | Pillar                 | Description                                                                                                                                  |
 | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------- |
