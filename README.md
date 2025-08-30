@@ -183,7 +183,7 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
 
 
 <p align="center">
-  <img src="https://github.com/jeffthedeveloper/jeffthedeveloper/blob/main/Contributions-Evolution.png?raw=true" 
+  <img src="https://github.com/jeffthedeveloper/jeffthedeveloper/blob/main/Contributions-Evolutionv2.png?raw=true" 
        alt="Histórico de Contribuições de jeffthedeveloper" width="100%"/>
 </p>
 
