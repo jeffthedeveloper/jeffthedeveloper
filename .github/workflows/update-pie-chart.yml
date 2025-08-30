@@ -45,7 +45,7 @@ jobs:
             echo "Changes detected."
             echo "has_changes=true" >> $GITHUB_ENV
           fi
-
+          
       - name: Commit and push changes
         if: env.has_changes == 'true'
         run: |
@@ -56,5 +56,5 @@ jobs:
           git add ./stats/github-readme-stats-pie.svg
           git commit -m "Update GitHub Stats & Pie Chart"
           
-          # 🔽 INSIRA SEU TOKEN AQUI 🔽
-          git push https://x-access-token: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@github.com/jeffthedeveloper/jeffthedeveloper.git
+          # A linha abaixo usa o token seguro e automático do GitHub Actions
+          git push
