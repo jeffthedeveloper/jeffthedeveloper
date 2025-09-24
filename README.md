@@ -183,7 +183,7 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
 
 
 <p align="center">
-  <img src="https://github.com/jeffthedeveloper/jeffthedeveloper/blob/main/Contributions-Evolutionv2.png?raw=true" 
+  <img src="https://github.com/jeffthedeveloper/jeffthedeveloper/blob/main/commits-per-year.png?raw=true" 
        alt="Histórico de Contribuições de jeffthedeveloper" width="100%"/>
 </p>
 
@@ -195,7 +195,7 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
 
 > Based on insights from the **GitClear** study (2020-2024), which analyzed 878,592 developer-years, my productivity approach focuses on **commit frequency** as a more stable and reliable indicator than lines of code. Commits reflect a true measure of activity and consistent progress.
 
-With **889 contributions in the last year**, my profile aligns with high-performing developers, demonstrating a steady acceleration toward the **Top 30%** benchmark (1,000+ commits/year).
+With **1000 + contributions in the last year**, my profile aligns with high-performing developers, demonstrating a steady acceleration toward the **Top 30%** benchmark (1,000+ commits/year).
 
 ### Productivity Benchmarks (Commits/Year)
 
