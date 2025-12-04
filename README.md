@@ -145,9 +145,9 @@ I enjoy solving complex problems in cloud environments (<strong>AWS/GCP</strong>
 
 | Program / Degree                         | Institution & Period | Focus               |                                                |
 | :--------------------------------------- | :------------------- | :------------------ | ---------------------------------------------- |
-| **Postgraduate in Big Data**             | Univitória           | 2025-2026 (Ongoing) | Big Data, Hadoop, Spark, AI & Machine Learning |
+| **Postgraduate in Big Data**             | Univitória           | 2025                | Big Data, Hadoop, Spark, AI & Machine Learning |
 | **Postgraduate in Software Engineering** | Faculdade Focus      | 2023                | Agile Methods, IT Governance, Systems Analysis |
-| **Data Analysis & Systems**              | UNOPAR               | 2022           | SQL, Data Modeling & Analysis          |
+| **Data Analysis & Systems**              | UNOPAR               | 2022                | SQL, Data Modeling & Analysis                  |
 
 | Category                        | Details                                                               |
 | :------------------------------ | :-------------------------------------------------------------------- |
