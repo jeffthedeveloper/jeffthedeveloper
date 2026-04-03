@@ -25,63 +25,89 @@ I'm a **Data & Quality Engineer** with over a decade of experience in technology
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://img.icons8.com/?size=100&id=20776&format=png&color=000000" width="40px"/> Automation & Optimization Engine</h3>
-      <p>A business-centric <strong>automation framework</strong> designed to eliminate manual bottlenecks. Features modular scripts for <strong>marketplace automation</strong> and batch processing, significantly reducing operational human error.</p>
+      <h3><img src="https://img.icons8.com/?size=100&id=20776&format=png&color=000000" width="30px"/> Automation & Optimization Engine</h3>
+      <p>Business-centric framework designed to eliminate manual bottlenecks. Features modular scripts for marketplace automation and batch processing.</p>
       <p><a href="https://github.com/jeffthedeveloper/automation-optimization-engine"><strong>View Code »</strong></a></p>
-      <p> 
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-        <img src="https://img.shields.io/badge/Automation-orange?style=for-the-badge" /> 
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-orange?style=for-the-badge" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://img.icons8.com/?size=100&id=4tsfIyU7wjGK&format=png&color=0e4e1e" width="40px"/> Data Pipeline Platform</h3>
-      <p>Production-grade <strong>ETL and Scraping platform</strong> for high-volume data ingestion. Implements modular scrapers and API integrations to provide a <strong>Single Source of Truth (SSOT)</strong> for business intelligence.</p>
+      <h3><img src="https://img.icons8.com/?size=100&id=4tsfIyU7wjGK&format=png&color=0e4e1e" width="30px"/> Data Pipeline Platform</h3>
+      <p>Production-grade ETL/Scraping platform for high-volume ingestion. Implements modular scrapers to provide a <strong>Single Source of Truth (SSOT)</strong>.</p>
       <p><a href="https://github.com/jeffthedeveloper/data-pipeline-platform"><strong>View Code »</strong></a></p>
-      <p> 
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-        <img src="https://img.shields.io/badge/Scraping-green?style=for-the-badge" /> 
+      <p>
+        <img src="https://img.shields.io/badge/Scraping-green?style=for-the-badge" />
         <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://img.icons8.com/?size=100&id=hobhTzGFcNkg&format=png&color=000000" width="40px"/> QA & Data Validation Framework</h3>
-      <p>A comprehensive <strong>Quality Engineering</strong> repository focused on <strong>regression testing</strong> and <strong>data integrity</strong>. Includes automated bug mapping, RCA (Root Cause Analysis), and data-driven test scenarios.</p>
-      <p><a href="https://github.com/jeffthedeveloper/qa-data-validation-framework"><strong>View Code »</strong></a></p>
-      <p> 
-        <img src="https://img.shields.io/badge/QA-red?style=for-the-badge" /> 
-        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" /> 
-        <img src="https://img.shields.io/badge/CI/CD-000?style=for-the-badge&logo=githubactions&logoColor=white" /> 
+      <h3><img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="30px"/> Enterprise API Hub</h3>
+      <p>Modular hub for cross-platform API synchronization (Slack, Firebase, Finance) using <strong>FastAPI</strong> for centralized enterprise communication.</p>
+      <p><a href="https://github.com/jeffthedeveloper/enterprise-api-integration-hub"><strong>View Code »</strong></a></p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Integrations-blue?style=for-the-badge" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://www.svgrepo.com/show/373976/pipeline.svg" width="40px"/> End-to-End MLOps Pipeline</h3>
-      <p>A production-ready <strong>MLOps pipeline</strong> serving a <strong>GPT-2</strong> model via a RESTful API. Fully containerized with <strong>Docker</strong>, ensuring code quality via <strong>CI/CD</strong> and automated unit testing.</p>
-      <p><a href="https://github.com/jeffthedeveloper/MLOPS"><strong>View Code »</strong></a></p>
-      <p> 
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> 
+      <h3><img src="https://img.icons8.com/?size=100&id=106562&format=png&color=000000" width="30px"/> Git Productivity Toolkit</h3>
+      <p>PowerShell-based <strong>Git-Ops</strong> suite to automate developer workflows, standardize commits, and reduce operational human error.</p>
+      <p><a href="https://github.com/jeffthedeveloper/dev-ops-git-productivity-toolkit"><strong>View Code »</strong></a></p>
+      <p>
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+        <img src="https://img.shields.io/badge/DevOps-000?style=for-the-badge&logo=githubactions&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://www.svgrepo.com/show/429932/business-document-finance.svg" width="40px"/> Finance Dashboard V2</h3>
-      <p>A full-featured <strong>finance management dashboard</strong> connecting my background in <strong>Accounting</strong> with modern tech. Showcases real-time analytics and interactive charts for strategic decision-making.</p>
-      <p><a href="https://github.com/jeffthedeveloper/finance-dashboard02"><strong>View Code »</strong></a></p>
+      <h3><img src="https://img.icons8.com/?size=100&id=82711&format=png&color=000000" width="30px"/> Performance Reliability Toolkit</h3>
+      <p>Advanced load-testing and stress simulation framework to validate system resilience and protect infrastructure in mission-critical environments.</p>
+      <p><a href="https://github.com/jeffthedeveloper/performance-reliability-toolkit"><strong>View Code »</strong></a></p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stress_Test-red?style=for-the-badge" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://www.svgrepo.com/show/303377/ibm-logo.svg" width="40px"/> IBM Data Science Capstone</h3>
-      <p>End-to-end <strong>Data Science workflow</strong>: from data extraction with <strong>Python & SQL</strong> to analysis and modeling. This project validates my professional certification in the field.</p>
-      <p><a href="https://github.com/jeffthedeveloper/Applied-Data-Science-Capstone-End-to-End-Analysis-with-Python-SQL-and-Machine-Learning"><strong>View Code »</strong></a></p>
+      <h3><img src="https://img.icons8.com/?size=100&id=hobhTzGFcNkg&format=png&color=000000" width="30px"/> QA & Data Validation</h3>
+      <p>Quality Engineering repository focused on regression testing and data integrity. Includes automated bug mapping and Root Cause Analysis (RCA).</p>
+      <p><a href="https://github.com/jeffthedeveloper/qa-data-validation-framework"><strong>View Code »</strong></a></p>
       <p>
-        <img src="https://img.shields.io/badge/Data_Science-blue?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/QA-red?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://www.svgrepo.com/show/373976/pipeline.svg" width="30px"/> End-to-End MLOps Pipeline</h3>
+      <p>Production-ready MLOps serving a GPT-2 model via RESTful API. Fully containerized with Docker, featuring CI/CD and unit testing.</p>
+      <p><a href="https://github.com/jeffthedeveloper/MLOPS"><strong>View Code »</strong></a></p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/MLOps-black?style=for-the-badge" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://www.svgrepo.com/show/429932/business-document-finance.svg" width="30px"/> Finance Dashboard V2</h3>
+      <p>Comprehensive dashboard connecting Accounting principles with modern Data Analytics. Real-time charts for strategic decision-making.</p>
+      <p><a href="https://github.com/jeffthedeveloper/finance-dashboard02"><strong>View Code »</strong></a></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Analysis-blueviolet?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><img src="https://www.svgrepo.com/show/303377/ibm-logo.svg" width="40px"/> IBM Data Science Capstone</h3>
+      <p>Professional certification project demonstrating a complete data science workflow: from extraction with Python & SQL to predictive modeling and deployment.</p>
+      <p><a href="https://github.com/jeffthedeveloper/Applied-Data-Science-Capstone-End-to-End-Analysis-with-Python-SQL-and-Machine-Learning"><strong>View Code »</strong></a></p>
     </td>
   </tr>
 </table>
