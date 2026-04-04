@@ -25,6 +25,26 @@ I'm a **Data & Quality Engineer** with over a decade of experience in technology
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><img src="https://img.icons8.com/?size=100&id=H1PUQ4T216d7&format=png&color=000000" width="30px"/> Spotify Airflow Orchestrator</h3>
+      <p>Scalable ETL pipeline using <strong>Apache Airflow</strong> for Spotify data ingestion. Features Docker architecture, dimensional modeling, and automated data lineage routines.</p>
+      <p><a href="https://github.com/jeffthedeveloper/spotify-airflow-etl-orchestrator"><strong>View Code »</strong></a></p>
+      <p>
+        <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000" width="30px"/> Metrics Intelligence Suite</h3>
+      <p>Management suite with <strong>native Prometheus observability</strong> via Prisma Runtime. Real-time telemetry monitoring to complement ETL data integrity and system health.</p>
+      <p><a href="https://github.com/jeffthedeveloper/enterprise-metrics-intelligence-suite"><strong>View Code »</strong></a></p>
+      <p>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Metrics-red?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><img src="https://img.icons8.com/?size=100&id=20776&format=png&color=000000" width="30px"/> Automation & Optimization Engine</h3>
       <p>Business-centric framework designed to eliminate manual bottlenecks. Features modular scripts for marketplace automation and batch processing.</p>
       <p><a href="https://github.com/jeffthedeveloper/automation-optimization-engine"><strong>View Code »</strong></a></p>
